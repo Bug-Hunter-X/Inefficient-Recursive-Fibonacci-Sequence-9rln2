@@ -1,0 +1,1 @@
+This repository contains an example of an inefficient recursive implementation of the Fibonacci sequence in Python and its optimized solution. The inefficient version suffers from repeated calculations, leading to exponential time complexity. The solution demonstrates how to improve performance using dynamic programming or memoization.
